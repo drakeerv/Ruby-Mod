@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "drakeervmod:ruby"
+        }
+    },
+    "result": {
+        "item": "drakeervmod:ruby_block",
+        "count": 1
+    },
+    "group": "ruby"
+}

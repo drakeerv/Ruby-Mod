@@ -1,0 +1,18 @@
+com/drakeerv/drakeerv_mod/generator/modgenerate.java
+ com.drakeerv.drakeerv_mod.generator.modgenerate
+com/drakeerv/drakeerv_mod/modtool/axe.java
+ com.drakeerv.drakeerv_mod.modtool.axe
+com/drakeerv/drakeerv_mod/modtool/hoe.java
+ com.drakeerv.drakeerv_mod.modtool.hoe
+com/drakeerv/drakeerv_mod/registry/modblocks.java
+ com.drakeerv.drakeerv_mod.registry.modblocks
+com/drakeerv/drakeerv_mod/modtool/pickaxe.java
+ com.drakeerv.drakeerv_mod.modtool.pickaxe
+com/drakeerv/drakeerv_mod/material/rubyarmormaterial.java
+ com.drakeerv.drakeerv_mod.material.rubyarmormaterial
+com/drakeerv/drakeerv_mod/material/rubytoolmaterial.java
+ com.drakeerv.drakeerv_mod.material.rubytoolmaterial
+com/drakeerv/drakeerv_mod/registry/moditems.java
+ com.drakeerv.drakeerv_mod.registry.moditems
+com/drakeerv/drakeerv_mod/drakeerv_mod.java
+ com.drakeerv.drakeerv_mod.drakeerv_mod

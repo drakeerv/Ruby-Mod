@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " ##",
+        " / ",
+        " / "
+    ],
+    "key": {
+        "#": {
+            "item": "drakeervmod:ruby"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "drakeervmod:ruby_hoe",
+        "count": 1
+    },
+    "group": "ruby"
+}

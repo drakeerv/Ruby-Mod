@@ -1,0 +1,19 @@
+{
+    "item.drakeervmod.ruby_axe": "Ruby Axe",
+    "item.drakeervmod.ruby_hoe": "Ruby Hoe",
+    "item.drakeervmod.ruby_pickaxe": "Ruby Pickaxe",
+    "item.drakeervmod.ruby_shovel": "Ruby Shovel",
+
+    "item.drakeervmod.ruby_boots": "Ruby Boots",
+    "item.drakeervmod.ruby_chestplate": "Ruby Chestplate",
+    "item.drakeervmod.ruby_helmet": "Ruby Helmet",
+    "item.drakeervmod.ruby_leggings": "Ruby Leggings",
+    "item.drakeervmod.ruby_sword": "Ruby Sword",
+
+    "item.drakeervmod.ruby": "Ruby",
+
+    "item.drakeervmod.ruby_horse_armor": "Ruby Horse Armor",
+
+    "block.drakeervmod.ruby_block": "Ruby Block",
+    "block.drakeervmod.ruby_ore": "Ruby Ore"
+}
